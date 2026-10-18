@@ -56,3 +56,5 @@ out=Path("assets/img/og-image.png")
 out.parent.mkdir(parents=True,exist_ok=True)
 im.save(out,optimize=True)
 print("Generated",out,im.size)
+
+# Generated as a LinkedIn preview; the actual portfolio layout is unchanged.
