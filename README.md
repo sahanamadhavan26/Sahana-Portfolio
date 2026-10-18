@@ -1,6 +1,6 @@
 # Sahana Madhavan — Product Portfolio
 
-**Live website:** https://sahanamadhavanportfolio1.vercel.app
+**Live website:** https://sahanamadhavanportfolio.vercel.app
 
 A recruiter-facing portfolio showcasing product management, AI-enabled SaaS delivery, customer success, and product analytics.
 
@@ -25,4 +25,4 @@ A recruiter-facing portfolio showcasing product management, AI-enabled SaaS deli
 
 ## Website source
 
-The live portfolio was deployed on Vercel separately. **The full website source and image assets have not yet been committed to this repository.** To make this repository the deployable source, upload the extracted files from `Sahana_Portfolio_Updated_Real_Screenshots.zip` to the repository root, including `index.html`, `vercel.json`, and the complete `assets/` folder. Then import this GitHub repository in Vercel or reconnect the existing project.
+The live portfolio was deployed on Vercel separately. **The full website source and image assets have not yet been committed to this repository.** To make this repository the deployable source, upload the actual source files and assets for the currently deployed website (including its entry point and any configuration files). Then connect this repository to the corresponding Vercel project.
